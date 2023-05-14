@@ -30,5 +30,4 @@ After you have performed the desired functions, the program will write the updat
 Contributing
 If you find any bugs or issues with the program, feel free to create a pull request or submit an issue. Any contributions are welcome.
 
-License
-This program is licensed under the MIT License. Feel free to use and modify the code as needed.
+
